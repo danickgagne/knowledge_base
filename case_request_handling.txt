@@ -1,0 +1,6 @@
+Coordinators are managing the AM/PM/OMA queue and assign the cases. Cases are assigned on a turned based model.
+OMA has 3 business days to complete the request. OMA may advise the resolution might take longer within the 3 days window if need be to manage expectations. Once the case is answered, OMA close the case. 
+If the request generates a document (budget increase calculation, quick report, etc.), OMA needs to drop this document in client’s Sharepoint shell as well.
+Once the case is closed, OMA add a note to the account, documenting the action that was taken
+If the case needs clarification from the MAC, OMA change the status to “sales info needed” and re-assign the case to the MAC.
+
