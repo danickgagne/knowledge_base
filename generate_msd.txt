@@ -1,6 +1,0 @@
-MSD requests need to be done through cases. If MAC doesn’t open the case and request an APR by any other mean, OMA has the responisiliby to creat such case request and assign it to themself
-Using Sharepoint template, OMA generates the MSD and complete it with recommendation.
-OMA drop the Word document in the case used for the request, as well as in Sharepoint client’s folder.
-If client folder not presnet, OMA creates one using the template folder
-Naming convention for MSD: MSD-client-name-date-range
-
