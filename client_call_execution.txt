@@ -1,9 +1,0 @@
-OMA will use their tasks to plan ahead (performance review, kickoff, content collection, etc.)
-OMA prep call and send invite to client/MAC
-OMA execute/record call 
-OMA log a call task with description to document the call
-OMA send recap email to client and MAC, log it with SF connector
-OMA open cases to fulfillment as needed
-OMA log a note to document action
-OMA drop call recording and documents in Sharepoint client’s folder
-
